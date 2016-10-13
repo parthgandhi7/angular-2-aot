@@ -1,0 +1,16 @@
+#Node modules
+node_modules/
+
+#Typings
+typings/
+
+#Build Folders
+aot/
+dist/
+
+#All js files in app folder would be generated on build
+app/*.js
+app/*.js.map
+
+#debug log
+npm-debug.log

@@ -1,0 +1,1 @@
+An angular 2 application with [Ahead of Time compilation](https://angular.io/docs/ts/latest/cookbook/aot-compiler.html). Do npm install and the npm start to start the application. Checkout the userservice for configuring your server to provide the data.
